@@ -3,21 +3,13 @@ THIS IS THE TASK FOR MY INTERVIEW WITH HCI LABS
 
 ## Installation
 
-To get started with HCI Labs, follow these steps:
-
-1. Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/hci-labs.git
-```
-
-2. Install the required dependencies using pip:
+1. Install the required dependencies using pip:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Set up your OpenAI API key:
+2. Set up your OpenAI API key:
 
     - Sign up for an account at [OpenAI](https://openai.com).
     - Obtain your API key from the dashboard.
