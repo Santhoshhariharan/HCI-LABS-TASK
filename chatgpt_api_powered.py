@@ -1,7 +1,7 @@
 import openai
 import gradio
 
-openai.api_key = "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"
+openai.api_key = "i had given my api key here "
 
 messages = [{"role": "system", "content": "CHAT GPT POWERED API BOT"}]
 
