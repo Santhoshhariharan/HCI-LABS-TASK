@@ -55,8 +55,4 @@ This project is maintained by Santhosh.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
 
-For any inquiries or feedback, please contact Santhosh at [santhosh@example.com](mailto:santhosh@example.com).
-
-Thank you for using HCI Labs! We hope you find our projects useful and insightful.
